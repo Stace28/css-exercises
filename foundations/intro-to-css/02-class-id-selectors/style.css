@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+#unique {
+    color: #1161ed;
+    font-size: 32px;
+}
+
+
+.odd { 
+    background-color: #f0bab1;
+    font-family: "Veranda", "DejaVu Sans", serif;
+    
+}
+
+.odd.third {
+    font-size: 24px
+}
+
+#fourth {
+    background-color: rgb(20,252,136);
+    font-size: 24px;
+    font-weight: bold;
+}
